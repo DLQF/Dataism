@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Dataism Laboratory for Quantitative Finance (DLQF)
       image:
         filename: welcome.jpg
       text: |
