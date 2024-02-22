@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The laboratory, founded in 2024, is a group set on exploring Quantitative Finance and Econometrics through an interdisciplinary and rigorous approach.  
   
   - block: collection
     content:
