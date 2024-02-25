@@ -14,9 +14,9 @@ sections:
       text: |
         <br>
         
-        The laboratory, founded in 2024, is a group set on exploring Quantitative Finance and Econometrics through an interdisciplinary and rigorous approach.  
+        The Dataism Laboratory, founded in 2024, is a Virginia Tech-based group set on exploring Quantitative Finance and Econometrics through an interdisciplinary and rigorous approach.  
   
-  - block: collection
+#  - block: collection
     content:
       title: Latest News
       subtitle:
@@ -35,7 +35,7 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
+#  - block: markdown
     content:
       title:
       subtitle: ''
