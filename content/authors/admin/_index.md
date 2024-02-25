@@ -1,41 +1,45 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ali Habibnia
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Ali
+last_name: Habibnia
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Economics and Data
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Virginia Tech College of Science
+    url: 'https://www.science.vt.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on the intersection of statistical machine learning and big data econometrics, with a particular interest in high-dimensional nonlinear time-series analysis and their applications in macroeconomic/financial forecasting and estimation of big financial networks.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Big Data Econometrics
+  - Statistical Machine Learning
+  - Deep Learning
+  - Nonlinear Econometric Analysis
+  - Forecasting
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Statistics
+      institution: London School of Economics
+      year: 2017
+    - course: MS in Quantitative Finance
+      institution: Bayes Business School
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Economics
+      institution: University of Tehran
+      year: 2010
+    - course: BS in Economics
+      institution: University of Tehran
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'habibnia@vt.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=qdF_lJYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/AliHabibnia
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ali-habibnia-a970b76/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'habibnia@vt.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -72,6 +76,8 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Assistant Professor in the Department of Economics and the Computational Modeling and Data Analytics, College of Science, Virginia Tech.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research focuses on the intersection of statistical machine learning and big data econometrics, with a particular interest in high-dimensional nonlinear time-series analysis and their applications in macroeconomic/financial forecasting and estimation of big financial networks.  I received my Ph.D. (2017) from the London School of Economics and Political Science, Department of Statistics.
+
+I also work occasionally as a consultant for financial firms and governmental organizations for all businesses related to pattern recognition and knowledge discovery, especially computer modeling and forecasting. I have been in the industry for a few years, working as a trader and portfolio strategist and developing different algorithmic trading strategies.
