@@ -40,6 +40,7 @@ education:
       year: 2010
     - course: BS in Economics
       institution: University of Tehran
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
