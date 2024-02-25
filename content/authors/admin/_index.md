@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Professors
+  - Principal Investigators
 ---
 
 I am an Assistant Professor in the Department of Economics and the Computational Modeling and Data Analytics, College of Science, Virginia Tech.  
