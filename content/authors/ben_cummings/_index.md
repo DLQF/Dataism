@@ -33,7 +33,10 @@ education:
   courses:
     - course: BS in Finance
       institution: Virginia Tech
-      year: 2025
+      year: 2025 
+    - course: AS in Science
+      institution: Richard Bland College of William and Mary
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
