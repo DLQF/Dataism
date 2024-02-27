@@ -22,11 +22,12 @@ organizations:
     url: 'https://pamplin.vt.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include algorithmic trading and everything regarding quantitative finance.
+bio: My research interests include algorithmic trading, trend analysis and everything regarding quantitative finance.
 
 interests:
   - Quantitative Finance
   - Algorithmic Trading
+  - Trend Analysis
 
 education:
   courses:
@@ -59,4 +60,4 @@ email: 'benc23@vt.edu'
 user_groups:
   - Researchers
 ---
-Ben Cummings is a Junior in Finance at VT. He is interested in algorithmic trading and everything regarding quantitative finance.
+Benjamin Cummings is a Junior pursuing a Bachelor of Science in Finance within the Pamplin College of Business. His experience lies in analysis of stock market trends, corporate finance, and regression analysis.
