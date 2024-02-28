@@ -22,11 +22,13 @@ organizations:
     url: 'https://eng.vt.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include algorithmic trading and everything regarding quantitative finance.
+bio: Ryan Bradley is a Sophomore pursuing Computer Science within the College of Engineering. His experience lies in market sentiment analysis and algorithmic trading strategies. 
 
 interests:
-  - Quantitative Finance
+  - Secure Computing 
+  - Blockchain Technology 
   - Algorithmic Trading
+
 
 education:
   courses:
@@ -59,4 +61,4 @@ email: 'ryanbradley@vt.edu'
 user_groups:
   - Researchers
 ---
-Ryan Bradley is a Sophomore in Computer Science at VT. He is interested in algorithmic trading and everything regarding quantitative finance.
+Ryan Bradley is a Sophomore pursuing Computer Science within the College of Engineering. His experience lies in market sentiment analysis and algorithmic trading strategies. 
