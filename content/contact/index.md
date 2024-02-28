@@ -9,8 +9,8 @@ sections:
     content:
       title: Contact
       text: |-
-        Please feel free to contact us if you want to collaborate with us or join the team. We would be happy to have you!
-      email: habibnia@vt.ed
+        Please feel free to contact us if you want to collaborate with us or join the team.
+      email: habibnia@vt.edu
 #      phone: 888 888 88 88
       address:
         street: Pamplin Hall, 880 West Campus Drive
