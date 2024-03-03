@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Adobe Stock**](https://depositphotos.com/photos/neural-network.html?qview=182486714)'
+  caption: 'Image credit: [**Adobe Stock**](https://www.snexplores.org/article/machine-learning-explainer-deep-learning-neural-nets-ai)'
   focal_point: ""
   preview_only: false
 
