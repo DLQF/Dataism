@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: capm_picture.pdf
+            filename: capm_picture.jpg
             filters:
               brightness: 0.7
           position: right
