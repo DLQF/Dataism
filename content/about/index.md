@@ -18,7 +18,6 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-        
       - title: Machine Learning and Finance
         content: Machine learning in finance is the application of algorithms to analyze financial data and make predictions. At DLQF, we leverage machine learning to develop models for predicting market trends, optimizing investment portfolios, and identifying profitable trading opportunities.
         align: left
@@ -29,7 +28,6 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-        
         - title: Nonlinear Time-Series Analysis
         content: Nonlinear time series analysis delves into intricate patterns within time-varying data, crucial in understanding market dynamics. At DLQF, we utilize these techniques to uncover hidden correlations and forecast market movements more accurately, enhancing risk management and portfolio optimization strategies.
         align: left
@@ -40,7 +38,6 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-          
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
