@@ -17,7 +17,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-#      - title: Limit Order Book
+#     - title: Limit Order Book
 #        content: DLQF supports undergraduate students who are looking to get involved in research early-on in their academic careers. DLQF fosters a research environment where students can learn and grow while also making significant contributions to the research projects.
 #        align: left
 #        background:
