@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'habibnia@vt.edu'
+    link: 'mailto:habibnia@vt.edu'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=qdF_lJYAAAAJ&hl=en
