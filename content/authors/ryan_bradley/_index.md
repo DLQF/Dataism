@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'ryanbradley@vt.edu'
+    link: 'mailto:ryanbradley@vt.edu'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rybrad
