@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: About_ML.jpg
+            filename: About_TimeSeries.jpg
             filters:
               brightness: 0.7
           position: center
