@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Dataism Laboratory for Quantitative Finance (DLQF)
+        Dataism Laboratory for Quantitative Finance 
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The Dataism Laboratory, founded in 2024, is a Virginia Tech-based group set on exploring Quantitative Finance and Econometrics through an interdisciplinary and rigorous approach.  
+        Founded in 2024, The Dataism Laboratory is a Virginia Tech-based group exploring Quantitative Finance and Econometrics through an interdisciplinary approach. 
   
 #  - block: collection
 #    content:
