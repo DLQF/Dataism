@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'benfacc@vt.edu'
+    link: 'mailto:benfacc@vt.edu'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ben-facciani/
