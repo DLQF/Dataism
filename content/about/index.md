@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: 
+            filename: vt_aerial_shot.png
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: 
+            filename: vt_aerial_shot.png
             filters:
               brightness: 0.7
           position: center
