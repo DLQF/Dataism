@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'alexjaimes9@vt.edu'
+    link: 'mailto:alexjaimes9@vt.edu'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alex-jaimes-48281a241
