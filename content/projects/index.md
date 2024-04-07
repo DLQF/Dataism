@@ -11,3 +11,5 @@ banner:
   caption: 'test'
   image: 'ALGO_image.png'
 ---
+
+We have a team...
