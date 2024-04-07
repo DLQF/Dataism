@@ -4,7 +4,7 @@ date: 2022-10-24
 
 type: landing
 
-sections
+sections:
   - block: people
     content:
       title: Meet the Team
