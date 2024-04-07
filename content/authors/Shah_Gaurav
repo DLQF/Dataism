@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Graduate Researchers
 ---
 I graduated in 2023 from Virginia Tech with a bachelor's degree in Computational Modeling and Data Analytics (CMDA) and Economics. I am currently pursuing my master's in computer science from Virginia Tech. My interests include machine learning, policy analysis, and behavioral economics. My current research is focused on causal inference, more specifically treatment effect analysis and in trying to use advanced machine learning techniques to obtain estimates on the effects of regulations in the banking sector. After graduating, I aim to utilize my experience to contribute to strategic decision-making, particularly in the domain of financial regulation.
 He is interested in machine learning, policy analysis, and behavioral economics.
