@@ -17,3 +17,15 @@ Within the dataism research lab, we've established a dedicated team focused on t
 The process begins with thorough data collection and preprocessing, ensuring the integrity and quality of the datasets we work with. Our team then employs a range of statistical techniques, including regression analysis, time series analysis, machine learning algorithms, and Bayesian inference, among others, to identify underlying relationships and trends in the data. 
 
 Once potential trading signals are identified, rigorous testing and validation procedures are conducted to assess their robustness and efficacy across various market conditions. This iterative process allows us to refine and optimize our strategies continuously, adapting to evolving market dynamics and minimizing risks
+
+---
+title: Algorithmic Trading
+
+# Listing view
+view: compact
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: 'ALGO_image.png'
+---
