@@ -1,11 +1,11 @@
 ---
-title: Latest News
+title: Projects
 
 # Listing view
 view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: 'test'
+  image: 'DDS_Homepage.jpg'
 ---
