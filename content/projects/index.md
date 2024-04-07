@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: vt_aerial_shot.png
+            filename: 
             filters:
               brightness: 0.7
           position: right
@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: torg_bridge.jpeg
+            filename: 
             filters:
               brightness: 0.7
           position: center
