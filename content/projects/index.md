@@ -8,7 +8,7 @@ view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: 'test'
+  caption: ''
   image: 'ALGO_image.png'
 ---
 
