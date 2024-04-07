@@ -20,9 +20,9 @@ Once potential trading signals are identified, rigorous testing and validation p
 
 title: Skill Vs Luck Replication
 
-# Listing view
-view: compact
+# Skill Vs Luck Replication Study
 
+  image: 'ALGO_image.png'
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
