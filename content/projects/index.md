@@ -9,7 +9,7 @@ view: compact
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'ALGO_image.png'
+  image: 'Untitled design.jpg
 ---
 
 Within the dataism research lab, we've established a dedicated team focused on the development and refinement of sophisticated algorithmic trading strategies. Our approach revolves around leveraging advanced statistical inference models to uncover meaningful patterns and insights within financial data. These models serve as the cornerstone of our methodology, enabling us to extract actionable signals from the vast amount of information available in the markets. 
