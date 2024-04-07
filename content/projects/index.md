@@ -21,7 +21,7 @@ Once potential trading signals are identified, rigorous testing and validation p
 banner:
   caption: ''
   image: 'ALGO_image.png'
-  
+---
 # Skill Vs Luck Replication Study
 
 Sample text
