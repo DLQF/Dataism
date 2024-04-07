@@ -19,7 +19,6 @@ The process begins with thorough data collection and preprocessing, ensuring the
 Once potential trading signals are identified, rigorous testing and validation procedures are conducted to assess their robustness and efficacy across various market conditions. This iterative process allows us to refine and optimize our strategies continuously, adapting to evolving market dynamics and minimizing risks
 
 banner:
-  caption: ''
   image: 'ALGO_image.png'
 ---
 # Skill Vs Luck Replication Study
