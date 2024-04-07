@@ -10,7 +10,7 @@ sections:
       title: |
         Dataism Laboratory for Quantitative Finance 
       image:
-        filename: DDS_Homepage.jpg
+        filename: New Homescreen Picture.png
       text: |
         <br>
         
