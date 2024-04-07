@@ -2,7 +2,7 @@
 title: Projects
 
 title: Algorithmic Trading
-test test
+
 # Listing view
 view: compact
 
