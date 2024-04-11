@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Founding Researcher
+role: Data Science Researcher
 
 # Organizations/Affiliations
 organizations:
