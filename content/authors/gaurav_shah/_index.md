@@ -35,6 +35,9 @@ education:
     - course: BS in Computational Modeling and Data Analytics (CMDA) and Economics
       institution: Virginia Tech
       year: 2023
+    - course: MS in Computer Science
+      institution: Virginia Tech
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,4 +64,4 @@ email: 'gauravs19@vt.edu'
 user_groups:
   - Graduate Researchers
 ---
-Roshan Sanyal graduated from Virginia Tech in 2023 with a degree in Computational Modeling and Data Analytics. His experience lies in statistical learning, AI/ML, and data analysis. He is currently working at The Boeing Company as a Lean Engineering Project Manager.
+Gaurav Shah graduated from Virginia Tech in 2023 with a bachelor's degree in Computational Modeling and Data Analytics (CMDA) and Economics. Gaurav is currently pursuing his Master's in Computer Science from Virginia Tech. His current research is focused on causal inference, more specifically treatment effect analysis and in trying to use advanced machine learning techniques to obtain estimates on the effects of regulations in the banking sector. After graduating, he aims to utilize his experience to contribute to strategic decision-making, particularly in the domain of financial regulation.
