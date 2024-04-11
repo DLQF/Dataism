@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Founding Researcher
+role: Derivatives Researcher
 
 # Organizations/Affiliations
 organizations:
