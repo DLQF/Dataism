@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Blockchain Researcher
+role: Assistant Researcher
 
 # Organizations/Affiliations
 organizations:
