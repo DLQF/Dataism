@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Researcher
+role: Founding Researcher
 
 # Organizations/Affiliations
 organizations:
