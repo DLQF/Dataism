@@ -14,7 +14,7 @@ sections:
       user_groups:
           - Principal Investigators
           - PHD Researchers
-          - Grad Researchers
+          - Graduate Researchers
           - Founding Researchers
           - Researchers
       sort_by: Params.last_name
