@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Founding Researchers
 ---
 Alex Jaimes is a senior in the CMDA program at VT. His experience lies in high performance computing, statistical learning and inference, and numerical analysis. He currently leads the CMDA Computing Consultants. 
 
