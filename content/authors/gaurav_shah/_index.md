@@ -32,12 +32,13 @@ interests:
 
 education:
   courses:
-    - course: BS in Computational Modeling and Data Analytics (CMDA) and Economics
-      institution: Virginia Tech
-      year: 2023
     - course: MS in Computer Science
       institution: Virginia Tech
       year: 2024
+    - course: BS in Computational Modeling and Data Analytics (CMDA) and Economics
+      institution: Virginia Tech
+      year: 2023
+    
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
