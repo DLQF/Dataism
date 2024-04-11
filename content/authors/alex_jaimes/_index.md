@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Science Researcher
+role: Statistics Researcher
 
 # Organizations/Affiliations
 organizations:
