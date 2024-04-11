@@ -59,6 +59,6 @@ email: 'ryanbradley@vt.edu'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Founding Researcher
+  - Founding Researchers
 ---
 Ryan Bradley is a Sophomore pursuing Computer Science within the College of Engineering. His experience lies in market sentiment analysis and algorithmic trading strategies. 
