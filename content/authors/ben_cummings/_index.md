@@ -61,6 +61,6 @@ email: 'benc23@vt.edu'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Founding Researchers
 ---
 Benjamin Cummings is a Junior pursuing a Bachelor of Science in Finance within the Pamplin College of Business. His experience lies in analysis of stock market trends, corporate finance, and regression analysis.
