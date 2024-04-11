@@ -59,6 +59,6 @@ email: 'roshans19@vt.edu'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Grad Researchers
 ---
 Roshan Sanyal graduated from Virginia Tech in 2023 with a degree in Computational Modeling and Data Analytics. His experience lies in statistical learning, AI/ML, and data analysis. He is currently working at The Boeing Company as a Lean Engineering Project Manager.
