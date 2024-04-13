@@ -10,7 +10,7 @@ sections:
       title: |
         Dataism Laboratory for Quantitative Finance 
       image:
-        filename: New Homescreen Picture.png
+        filename: 1712982735022.jpg
       text: |
         <br>
         
