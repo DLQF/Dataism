@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <img src="/path/to/logo.png" alt="Dataism Logo" style="vertical-align: middle;">
+        <img src="/path/to/logo.png" style="vertical-align: middle;">
         <span style="color: #ACD1E9; font-size: 26px;">Dataism Laboratory for Quantitative Finance</span>
       image:
         filename: 1712982735022.jpg
