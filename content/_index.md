@@ -13,9 +13,12 @@ sections:
         filename: 1712982735022.jpg
       text: |
         <br>
-        
-        Established in 2024, The Dataism Lab at Virginia Tech is an interdisciplinary hub focused on advancing Quantitative Finance and Econometrics through cutting-edge technologies. Our mission centers on exploring AI/Machine Learning, Big Data, and High Performance Computing (HPC) for transformative applications in this field.
-  
+
+        <p style="color: #336699; font-size: 20px;"> 
+        Established in 2024, The Dataism Lab at Virginia Tech is an interdisciplinary hub focused on advancing Quantitative Finance and Econometrics through cutting-edge technologies. Our mission centers on exploring AI/Machine Learning, Big Data Analytics, and High Performance Computing (HPC) for transformative applications in this field.
+        </p>
+
+
 #  - block: collection
 #    content:
 #      title: Latest News
