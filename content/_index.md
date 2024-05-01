@@ -8,13 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Dataism Laboratory for Quantitative Finance 
+        <p style=" font-size: 33px;"> Dataism Laboratory for Quantitative Finance 
       image:
         filename: 1712982735022.jpg
       text: |
         <br>
-
-        <p style="color: #FFFFF0; font-size: 24px;"> 
+        <p style="color: #FFFFF0; font-size: 23px;"> 
         Established in 2024, The Dataism Lab at Virginia Tech is an interdisciplinary hub focused on advancing Quantitative Finance and Econometrics through cutting-edge technologies. Our mission centers on exploring AI/Machine Learning, Big Data Analytics, and High Performance Computing (HPC) for transformative applications in this field.
         </p>
 
