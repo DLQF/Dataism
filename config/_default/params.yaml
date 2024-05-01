@@ -42,8 +42,8 @@ footer:
     notice: '© {year} DLQF'
     license:
       enable: true
-      allow_derivatives: false
-      share_alike: true
+      allow_derivatives: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
