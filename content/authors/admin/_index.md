@@ -10,12 +10,12 @@ last_name: Habibnia
 superuser: true
 
 # Role/position
-role: Professor of Economics and Data
+role: Assistant Professor of Economics
 
 # Organizations/Affiliations
 organizations:
-  - name: Virginia Tech College of Science
-    url: 'https://www.science.vt.edu/'
+  - name: Personal Webpage
+    url: 'http://www.alihabibnia.com/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the intersection of statistical machine learning and big data econometrics, with a particular interest in high-dimensional nonlinear time-series analysis and their applications in macroeconomic/financial forecasting and estimation of big financial networks.
@@ -26,6 +26,9 @@ interests:
   - Deep Learning
   - Nonlinear Econometric Analysis
   - Forecasting
+  - Computational Finance
+  - Quantum Machine Learning
+  - Systemic Risk
 
 education:
   courses:
@@ -79,6 +82,6 @@ user_groups:
 
 I am an Assistant Professor in the Department of Economics and the Computational Modeling and Data Analytics, College of Science, Virginia Tech.  
 
-My research focuses on the intersection of statistical machine learning and big data econometrics, with a particular interest in high-dimensional nonlinear time-series analysis and their applications in macroeconomic/financial forecasting and estimation of big financial networks.  I received my Ph.D. (2017) from the London School of Economics and Political Science, Department of Statistics.
+My research focuses on the intersection of statistical machine learning and big data econometrics, with a particular interest in high-dimensional nonlinear time-series analysis and their applications in macroeconomic/financial forecasting and estimation of big financial networks.
 
 I also work occasionally as a consultant for financial firms and governmental organizations for all businesses related to pattern recognition and knowledge discovery, especially computer modeling and forecasting. I have been in the industry for a few years, working as a trader and portfolio strategist and developing different algorithmic trading strategies.
