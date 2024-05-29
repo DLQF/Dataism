@@ -63,4 +63,4 @@ email: 'benc23@vt.edu'
 user_groups:
   - Founding Researchers
 ---
-Benjamin Cummings is a Junior in the Pamplin College of Business, pursuing a Bachelor of Science in Finance. His focus extends across various financial domains, encompassing analysis of stock market trends, handling of corporate finance, and  application of regression analysis methods. 
+Benjamin Cummings is studying financial tech within the college of science at Virginia Tech. His focus extends across various financial domains, encompassing analysis of stock market trends, handling of corporate finance, and  application of regression analysis methods. 
